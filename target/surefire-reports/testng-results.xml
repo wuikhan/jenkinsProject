@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4845" started-at="2018-05-22T19:37:30Z" finished-at="2018-05-22T19:37:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4845" started-at="2018-05-22T19:37:30Z" finished-at="2018-05-22T19:37:34Z">
+      <class name="com.test.TestDemo">
+        <test-method status="PASS" signature="testNew()[pri:0, instance:com.test.TestDemo@35f983a6]" name="testNew" duration-ms="4826" started-at="2018-05-22T15:37:30Z" description="Google Home)" finished-at="2018-05-22T15:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNew -->
+      </class> <!-- com.test.TestDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
