@@ -19,7 +19,7 @@
 			  <scope>test</scope>
 			</dependency>
 			
-			<!-- https://mvnrepository.com/artifact/com.codeborne/phantomjsdriver -->
+			<!-- https://mvnreposit ory.com/artifact/com.codeborne/phantomjsdriver -->
 		<dependency>
 		    <groupId>com.codeborne</groupId>
 		    <artifactId>phantomjsdriver</artifactId>
